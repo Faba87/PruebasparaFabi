@@ -1,0 +1,3 @@
+correo1@ejemplo.com
+correo2@ejemplo.com
+dominioconfiable.com
